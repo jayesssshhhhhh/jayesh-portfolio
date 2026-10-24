@@ -82,9 +82,9 @@ export const portfolioData: PortfolioData = {
     email: "jayeshjaiswal2022@vitbhopal.ac.in",
     location: "Bhopal, Madhya Pradesh, India",
     social: {
-      github: "https://github.com", // Add your personal GitHub handle here
-      linkedin: "https://linkedin.com", // Add your LinkedIn handle here
-      portfolio: "https://jayeshjaiswal.vercel.app"
+      github: "https://github.com/jayesssshhhhhh",
+      linkedin: "https://linkedin.com",
+      portfolio: "https://jayesh-portfolio.vercel.app"
     }
   },
   stats: {
